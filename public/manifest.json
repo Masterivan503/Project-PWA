@@ -1,0 +1,23 @@
+{
+  "background-color": "#ffffff",
+  "categories": ["education", "social"],
+  "description": "App de un chat en tiempo real",
+  "dir": "ltr",
+  "display_override": ["standalone", "fullscreen"],
+  "display": "standalone",
+  "iconos": [
+    {
+      "src": "icono/charlar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "es-SV",
+  "name": "PWA masterivan",
+  "orientation": "portrait",
+  "prefer_related_application": false,
+  "scope": "/",
+  "short_name": "PWA master",
+  "start_url": "/",
+  "theme_color": "orange"
+}
